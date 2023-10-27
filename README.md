@@ -22,14 +22,14 @@ This is the core code from scratch to clone the landing page of Netflix using **
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Netflix-Clone/pulls)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the existing [Issues]https://github.com/Sai-chaithu8341/NETFLIX-.git) or [create a new issue]https://github.com/Sai-chaithu8341/NETFLIX-.git
-- [Fork the Repo](https://github.com/Sai-chaithu8341/NETFLIX-.git), create a branch for any issue that you are working on and commit your work.
-- Create a **[Pull Request](https://github.com/Sai-chaithu8341/NETFLIX-.git)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
+- Take a look at the existing [Issues]https://github.com/Sai-chaithu8341/netflix-clone.git) or [create a new issue]hhttps://github.com/Sai-chaithu8341/netflix-clone.git
+- [Fork the Repo]https://github.com/Sai-chaithu8341/netflix-clone.git, create a branch for any issue that you are working on and commit your work.
+- Create a **[Pull Request]https://github.com/Sai-chaithu8341/netflix-clone.git** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Sai-chaithu8341/NETFLIX-.git) repository. Click on the <a href="https://github.com/Sai-chaithu8341/NETFLIX-.git"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Sai-chaithu8341/netflix-clone.git) repository. Click on the <a href="https://github.com/Sai-chaithu8341/netflix-clone.git"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Clone your new fork of the repository:
 
@@ -40,7 +40,7 @@ git clone https://github.com/<your-github-username>/Netflix-Clone
 **3.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/Sai-chaithu8341/NETFLIX-.git
+git remote add upstream https://github.com/Sai-chaithu8341/netflix-clone.git
 ```
 
 **4.** Navigate to the new project directory:
